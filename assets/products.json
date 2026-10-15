@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton T-Shirt",
+    "description": "Soft cotton regular fit",
+    "price": 799,
+    "image": "assets/images/products/tshirt.png"
+  },
+  {
+    "id": 2,
+    "name": "Casual Linen Shirt",
+    "description": "Breathable everyday shirt",
+    "price": 1499,
+    "image": "assets/images/products/shirt.png"
+  },
+  {
+    "id": 3,
+    "name": "Slim Fit Jeans",
+    "description": "Stretch denim blue jeans",
+    "price": 1899,
+    "image": "assets/images/products/jeans.png"
+  },
+  {
+    "id": 4,
+    "name": "Floral Midi Dress",
+    "description": "Elegant floral printed dress",
+    "price": 2299,
+    "image": "assets/images/products/dress.png"
+  },
+  {
+    "id": 5,
+    "name": "Oversized Hoodie",
+    "description": "Comfortable fleece hoodie",
+    "price": 1799,
+    "image": "assets/images/products/hoodie.png"
+  },
+  {
+    "id": 6,
+    "name": "Denim Jacket",
+    "description": "Classic casual denim jacket",
+    "price": 2599,
+    "image": "assets/images/products/jacket.png"
+  },
+  {
+    "id": 7,
+    "name": "Printed Cotton Kurti",
+    "description": "Traditional daily wear kurti",
+    "price": 1299,
+    "image": "assets/images/products/kurti.png"
+  },
+  {
+    "id": 8,
+    "name": "Formal Trousers",
+    "description": "Tailored office wear trousers",
+    "price": 1999,
+    "image": "assets/images/products/trousers.png"
+  },
+  {
+    "id": 9,
+    "name": "Crew Neck Sweatshirt",
+    "description": "Premium soft knit sweatshirt",
+    "price": 1599,
+    "image": "assets/images/products/sweatshirt.png"
+  },
+  {
+    "id": 10,
+    "name": "Pleated Midi Skirt",
+    "description": "Elegant flowing midi skirt",
+    "price": 1699,
+    "image": "assets/images/products/skirt.png"
+  }
+]
